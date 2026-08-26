@@ -12,6 +12,27 @@
 
 ## Getting the engine
 
+## Supported Development Platforms
+* PC
+  * Windows 10 and 11
+  * Linux
+* Mobile
+  * Android
+
+## Supported Game Platforms
+* PC
+  * Windows
+  * Linux
+  * macOS
+* VR
+* Mobile
+  * Android
+  * iOS
+* Console
+  * PlayStation
+  * Xbox
+  * Nintendo
+
 ### downloads
 [![XD data](https://homebax.vercel.app/engine/download.svg)](https://homebax.vercel.app/engine/download)
 
