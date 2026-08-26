@@ -34,7 +34,7 @@
   * Nintendo
 
 ### downloads
-[![XD data](https://homebax.vercel.app/engine/download.png)](https://homebax.vercel.app/engine/download)
+[![XD data](https://homebax.vercel.app/engine/assets/download.png)](https://homebax.vercel.app/engine/download)
 
 ### team
 [![Code Triagers Badge](https://homebax.vercel.app/engine/team.png)](https://homebax.vercel.app/engine/team)
