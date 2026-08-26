@@ -8,7 +8,7 @@
 
 ## 2D and 3D cross-platform game engine
 
-**[HB Engine](https://homebax.vercel.app/HB Engine)**
+**[HB Engine](https://homebax.vercel.app/engine)**
 
 ## Getting the engine
 
